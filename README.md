@@ -377,14 +377,14 @@ notebooks/legacy_stock_ml_insights/stockMLinsightsreport.ipynb
 
 <table>
   <tr>
-    <td><img src="notebooks/legacy_stock_ml_insights/lstm_prediction.png" width="300"></td>
-    <td><img src="notebooks/legacy_stock_ml_insights/lstm_return_calc.png" width="300"></td>
-    <td><img src="notebooks/legacy_stock_ml_insights/ma_crossover.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/images/lstm_prediction.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/images/lstm_return_calc.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/images/ma_crossover.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="notebooks/legacy_stock_ml_insights/ma_crossover_returns.png" width="300"></td>
-    <td><img src="notebooks/legacy_stock_ml_insights/ma_crossover_returns_calc.png" width="300"></td>
-    <td><img src="notebooks/legacy_stock_ml_insights/ta_indicators_returns.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/images/ma_crossover_returns.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/images/ma_crossover_returns_calc.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/images/ta_indicators_returns.png" width="300"></td>
   </tr>
 </table>
 
