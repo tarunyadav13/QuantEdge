@@ -322,6 +322,43 @@ The hybrid ML engine recorded test ROC-AUC of **0.469** and balanced accuracy of
 
 ---
 
+# QuantEdge Dashboard
+
+## 1. Research Overview
+![Research Overview](docs/images/research-overview.png)
+
+## 2. Market Overview
+![Market Overview](docs/images/market-overview.png)
+
+## 3. Traditional Strategies
+![Traditional Strategies](docs/images/traditional-strategies.png)
+
+## 4. Traditional Strategy Risk Analysis
+![Risk and Risk-Adjusted Performance](docs/images/traditional-risk-analysis.png)
+
+## 5. Hybrid Traditional Strategies
+![Hybrid Traditional Strategies](docs/images/hybrid-traditional-strategies.png)
+
+## 6. Technical Indicator ML
+![Technical Indicator ML](docs/images/technical-indicator-ml.png)
+
+## 7. LSTM and GRU Experiments
+![Sequence Model Experiments](docs/images/sequence-model-experiments.png)
+
+## 8. Hybrid Ensemble Experiments
+![Hybrid Ensemble Experiments](docs/images/hybrid-ensemble-experiments.png)
+
+## 9. Hybrid ML Trading Engine
+![Hybrid ML Engine](docs/images/hybrid-ml-engine.png)
+
+## 10. Portfolio Optimization and Explainable AI
+![Portfolio and Explainability](docs/images/portfolio-explainability.png)
+
+## 11. Limitations
+![Portfolio and Explainability](docs/images/limitations.png)
+
+---
+
 ## Earlier Research: Stock ML Insights
 
 The repository also includes the earlier **Stock ML Insights Report** notebook as a research-history/learning artifact. That standalone project focused on `RELIANCE.NS` and explored:
@@ -336,6 +373,20 @@ Place the notebook in a path such as:
 ```text
 notebooks/legacy_stock_ml_insights/stockMLinsightsreport.ipynb
 ```
+## Previous Project: Stock ML Insights
+
+<table>
+  <tr>
+    <td><img src="notebooks/legacy_stock_ml_insights/lstm_prediction.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/lstm_return_calc.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/ma_crossover.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="notebooks/legacy_stock_ml_insights/ma_crossover_returns.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/ma_crossover_returns_calc.png" width="300"></td>
+    <td><img src="notebooks/legacy_stock_ml_insights/ta_indicators_returns.png" width="300"></td>
+  </tr>
+</table>
 
 If you also add its original visualisation images, keep them in a sibling `images/` folder and update the notebook's relative image paths if needed. This earlier notebook is supplementary research; its single-stock results should remain distinct from the multi-stock QuantEdge experiments.
 
@@ -362,7 +413,7 @@ QuantEdge/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/QuantEdge.git
+git clone https://github.com/tarunyadav13/QuantEdge.git
 cd QuantEdge
 ```
 
