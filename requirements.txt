@@ -1,0 +1,58 @@
+# Core
+numpy
+pandas
+python-dotenv
+pydantic
+
+# Market Data
+yfinance
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+tensorflow
+
+# Data Visualization
+plotly
+matplotlib
+
+# Backend
+fastapi
+uvicorn[standard]
+
+# Experiment Tracking
+mlflow
+
+# Optimization
+optuna
+
+# Testing
+pytest
+pytest-cov
+
+# Dashboard
+streamlit
+
+# Utilities
+requests
+joblib
+tqdm
+
+statsmodels
+seaborn
+ta
+
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+numpy
+pandas
+joblib
+matplotlib
+seaborn
+
+optuna
+optuna-integration

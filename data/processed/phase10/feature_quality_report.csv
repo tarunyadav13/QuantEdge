@@ -1,0 +1,7 @@
+ticker,total_rows,total_features,missing_percentage,complete_feature_rows,output_file
+RELIANCE.NS,1237,97,2.78,980,C:\Users\tarun\QuantEdge\data\processed\phase10\RELIANCE_NS_advanced.csv
+HDFCBANK.NS,1237,97,2.78,980,C:\Users\tarun\QuantEdge\data\processed\phase10\HDFCBANK_NS_advanced.csv
+ICICIBANK.NS,1237,97,2.78,980,C:\Users\tarun\QuantEdge\data\processed\phase10\ICICIBANK_NS_advanced.csv
+INFY.NS,1237,97,2.78,980,C:\Users\tarun\QuantEdge\data\processed\phase10\INFY_NS_advanced.csv
+TCS.NS,1237,97,2.78,980,C:\Users\tarun\QuantEdge\data\processed\phase10\TCS_NS_advanced.csv
+SBIN.NS,1237,97,2.78,980,C:\Users\tarun\QuantEdge\data\processed\phase10\SBIN_NS_advanced.csv
